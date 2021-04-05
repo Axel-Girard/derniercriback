@@ -1,0 +1,23 @@
+{
+  "name": "derniercriback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/clapide/derniercriback.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/clapide/derniercriback/issues"
+  },
+  "homepage": "https://gitlab.com/clapide/derniercriback#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
